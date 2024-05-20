@@ -1,0 +1,6 @@
+node_modules/
+vendor
+includes/.env
+cypress.json
+package-lock.json
+cypress/
